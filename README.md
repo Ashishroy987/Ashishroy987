@@ -9,7 +9,6 @@ I'm a BTech Computer Science student passionate about building scalable web appl
 ## 📚 About Me
 
 - 🎓 **Education:** BTech in Computer Science & Engineering (Data Science) | Bihar Engineering University, Patna (2022-2026)
-- 📊 **CGPA:** 7.6/10
 - 📍 **Location:** Hajipur, Bihar, India
 - 🎯 **Focus Areas:** Full-Stack Development, Real-time Applications, Machine Learning
 
